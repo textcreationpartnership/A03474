@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oratio Sarisburiæ habita VIII. Id. Iun Cum  reuerendus in Christo Pater Henricus permissione divinâ Episcopus Sarisburiensis gradum Doctoratus Theologiâ susciperet, ex decreto Convocationis Oxoniensis. Authore T. Holland Theol. Doct. &amp; Profess. Regio.</title>
+            <author>Holland, Thomas, 1539-1612.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A03474</idno><idno type="EEBO-CITATION">99855869</idno>
+  <idno type="VID">21377</idno>
+  <idno type="EEBO-PROQUEST">2240864869</idno>
+  <idno type="STC">STC 13596</idno>
+  <idno type="STC">ESTC S120675</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855869e"/>
+            <note>(EEBO-TCP ; phase 2, no. A03474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1026:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oratio Sarisburiæ habita VIII. Id. Iun Cum  reuerendus in Christo Pater Henricus permissione divinâ Episcopus Sarisburiensis gradum Doctoratus Theologiâ susciperet, ex decreto Convocationis Oxoniensis. Authore T. Holland Theol. Doct. &amp; Profess. Regio.</title>
+                  <author>Holland, Thomas, 1539-1612.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Excudebat Iosephus Barnesius,</publisher>
+                  <pubPlace>Oxoniæ :</pubPlace>
+                  <date>M. D. XCIX. [1599]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cotton, Henry, d. 1615 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21377:1"/>
+            <pb facs="tcp:21377:1"/>
+            <p>ORATIO SA<g ref="char:EOLhyphen"/>RISBVRIAE HABITA <hi>VIII. Id. Iun.</hi>
+            </p>
+            <p>CVM REVERENDVS IN CHRIS<g ref="char:EOLhyphen"/>TO Pater HENRICVS permissione divinâ Episcopus Sarisburiensis gradum Docto<g ref="char:EOLhyphen"/>ratus in Theologiâ susciperet, ex <hi>de<g ref="char:EOLhyphen"/>creto Convocationis Oxoniensis.</hi>
+            </p>
+            <p>
+               <hi>Authore</hi> T. HOLLAND <hi>Theol. Doct. &amp; Profess. Regio.</hi>
+            </p>
+            <p>
+               <hi>OXONIAE,</hi> Excudebat Iosephus Barnesius. M. D. XCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:21377:2"/>
+            <pb facs="tcp:21377:2"/>
+            <p>
+               <seg rend="decorInit">Z</seg>ACHARIAE <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; di<g ref="char:EOLhyphen"/>viniloquo (Viri Gravissimi) ostendit Dominus (vt liquet cap. 3. ejus pro<g ref="char:EOLhyphen"/>phetię) in coelitùs missâ visione,<note n="a" place="margin">Zac. 3.1.</note> Ie<g ref="char:EOLhyphen"/>hosuam summum Sacerdotem corā Angelo Doministantem, sordidis vestibus indutum, astante ei à dex<g ref="char:EOLhyphen"/>tra Satanâ, vt adversaretur ipsi, He<g ref="char:EOLhyphen"/>braicè <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Angelus verò ille Domini qui<note n="b" place="margin">Zac. 1.8.</note> cap. 1. ab hoc Propheta visus est inter myrte<g ref="char:EOLhyphen"/>ta stare, cap. 3. Prophetae Malachiae dicitur<note n="c" place="margin">Mal. 3.1.</note>
+               <hi>Angelus Te<g ref="char:EOLhyphen"/>stamenti,</hi> &amp; <hi>Angelus foederis,</hi> nempe <hi>Christus Iesus,</hi>
+               <note n="d" place="margin">1. Col. 1.18.</note> Caput Angelorum &amp; hominum. In illa visione Prophetae in hoc cap. <gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tensâ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tria facit, 1. <hi>Satanam increpat,</hi> 2. <hi>Seraphinis sibi mi<g ref="char:EOLhyphen"/>nistra<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tibus mandatum dat,</hi> 3. <hi>Iehosuam summum Sacerdotem admonet.</hi> Satanam aute primo in loco ita alloquitur,<note n="e" place="margin">Zac. 3.2.</note>
+               <hi>Increpet te Iehova, Satan; increpet (inquam) te Iehova, qui Hierosolymam elegit.</hi> Vel vt Ionathę Targum explicuit,<note n="f" place="margin">Ionath. Tar. in cap. 3.</note>
+               <hi>Increpet te Iehova, cui placuit maiestatem suam in Hierosolyma collocare.</hi> His qui sibi fuerunt à ministerio praecepit, vt<note n="g" place="margin">Zac. 3.4. &amp; 5.</note> sordidas vestes Pon<g ref="char:EOLhyphen"/>tifici detraherent, deinde vt splendidis ipsum indumentis vestirent, &amp; cidarim mundam capiti ipsius imponerent. Ie<g ref="char:EOLhyphen"/>hosuam verò Sacerdotem his verbis contestatur;<note n="h" place="margin">Zac. 3.6. &amp; 7</note>
+               <hi>S<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in vijs meis ambulaveris, &amp; custodiam meam custodieris; tu quidem iu<g ref="char:EOLhyphen"/>dicabis eos qui in domo Sanctuarij mei mihi ministrant, &amp; in mor<g ref="char:EOLhyphen"/>tuorum<note n="i" place="margin">Targ. Iona.</note> resurrectione resuscitabo te, pedes{que} veloces inter Sera<g ref="char:EOLhyphen"/>phin istos ambulantes tibi donabo.</hi>
+            </p>
+            <p>Admirabilis ista visio sanctissimo Prophetae à Deo. Opt. Max, revelata idęa sit hujus negotij, &amp; orationis à me hoc tempore habendae perfectus canon,<note n="k" place="margin">Inchoato o<g ref="char:EOLhyphen"/>peri frontispi<g ref="char:EOLhyphen"/>cium oportet imponere splendidum.</note> &amp; cynosura quam tan<g ref="char:EOLhyphen"/>quam ducem &amp; Ariadnes filum sequar, secundum illud Pin<g ref="char:EOLhyphen"/>dari,
+<q>
+                  <l>— <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </q> Et licèt ea omnia quae in hac prophetica revelatione conti<g ref="char:EOLhyphen"/>nentur,<note n="l" place="margin">Pind. Od. 6. Olimpia.</note>
+               <pb facs="tcp:21377:3"/>instituto meo prorsus non conveniant; cùm ex his tamen quędam delibari possint huic tempori non malè con<g ref="char:EOLhyphen"/>cinentia, ab illo autem opere quod nūc (Deo propitio) per<g ref="char:EOLhyphen"/>agendum est non valdè aliena; date veniam (Auditores) vt caeteris praetermissis illa sequar, quae &amp; orationi meae co<g ref="char:EOLhyphen"/>aptentur, &amp; officio sint consentanea, &amp; rei gerendae digni<g ref="char:EOLhyphen"/>tati ex lege Academicâ percommodè serviant.</p>
+            <p>Misit nos hodie ad te (Reverende in Christo Pater) Aca<g ref="char:EOLhyphen"/>demia Oxoniensis, vt honorificis Doctoris in Theologia insignibus te ornaremus. Academia Oxoniensis, omnium bonarum artiū officina; ex istis quatuor Academijs vna, quae in<note n="m" place="margin">De Magist. lib. 5. tit. 1.</note> Clementinis nobilitata est; quae vniversam Ecclesiam Catholicam, per orbem terrarum diffusam non see<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s pie<g ref="char:EOLhyphen"/>tatis ac religionis salutatibus aquis fertilem faciūt, ac olim<note n="n" place="margin">Gen <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10</note> fons ille Paradisi, qui à Mose Gen. 2. describitur, per qua<g ref="char:EOLhyphen"/>tuor flumina ex vno fonte manantia, hortum Eden Dei manu consitum rore, aquâ, semine foecundè irrigavit, irri<g ref="char:EOLhyphen"/>gatione foe cundam fecit, foecunditate ditavit &amp; quasi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne-briavit, de quo it a in Graeco carmine.
+<q>
+                  <l>
+                     <note n="o" place="margin">Fontes verò seriatim qua<g ref="char:EOLhyphen"/>tuor <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>uebant aqoâ lim pidâ Vicini inter se aliò at{que} aliò, quorum om nea quidē slu<g ref="char:EOLhyphen"/>vij mundant <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eaturien<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es. Hom. Cento.</note>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> Academia (dico) Oxoniensis nos ad te misit, quę (vt scrip<g ref="char:EOLhyphen"/>tū est in Lib. Procuratorum)<note n="p" place="margin">Lib. Procur. Oxon. Acad.</note> omnium Latinorū nunc ex<g ref="char:EOLhyphen"/>stantium studiorum fundatione prior est, scientiarum plu<g ref="char:EOLhyphen"/>ralitate generalior, veritatis Catholicae professione firmior, privilegiorum multiplicitate pręstantior. Academia Ox<g ref="char:EOLhyphen"/>oniensis, quae propter coeli &amp; soli amaenitatem<note n="q" place="margin">Histor, Ox<g ref="char:EOLhyphen"/>on. Li. Antiq. Oxon.</note>
+               <hi>Bellosita</hi> o<g ref="char:EOLhyphen"/>lim dicta est, propter bonarum artium studia quae illîc olim floruerunt, &amp; adhuc per Dei gratiam florent <hi>Athena Angliae</hi> Iure nominari potest,<note n="r" place="margin">Paralip. li. 2. cap. <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ver. 22. Cha<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in domo do<g ref="char:EOLhyphen"/>ctrinae. <hi>Graec.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Latin. Secun. da. vulg Trē. 2. Reg. 22.14.</note>
+               <hi>Mischna Kiriah Sepher,</hi>
+               <note n="f" place="margin">
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udic 1.11.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Civitas literarum, Theologicae professessionis Metropolis.</hi> Academia (inquam) Oxoniensis, olim ma<g ref="char:EOLhyphen"/>ter tua,<note n="e" place="margin">Naziā. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Ba<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi>
+               </note> nos ad te misit, vt te filium suum Doctoris in The<g ref="char:EOLhyphen"/>ologia infignibus ornaremus. Et licet per Dei gratiam
+<pb facs="tcp:21377:3"/>Episcopus sis, qui olim (teste Suida) apud Graecos ex vi nominis dictus est &amp;<note n="u" place="margin">Suid. custes, speculator, vi<g ref="char:EOLhyphen"/>gil.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Et licèt à Reverendissimo Archiepiscopo &amp; ab aliis ipsi con<g ref="char:EOLhyphen"/>sentientibus Episcopis, Senioribus, &amp; Senatoribus Eccle<g ref="char:EOLhyphen"/>siae nostrae, per<note n="x" place="margin">1. Tim <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14.</note>
+               <hi>manus impositionē,</hi> &amp; precū effusionē officiū hoc susceperis: Et licèt Serēissima Regina te vnicè huic sedi Episcopali praesse voluerit, &amp; speculis hisce Sarisburiensib{us} te cōmēdaverit, vt observares quomodo vnusquis{que} in mi<g ref="char:EOLhyphen"/>nisterio Ecclesiastico per bāc dioecesin se gerat, tum quoad fidei puntatem, tum quoad morum probitatem: Et licèt initiatus sis his caeremoniis quibus (omni superstitione pre<g ref="char:EOLhyphen"/>cisà) homines tui loci &amp; ordinis initiari debent &amp; solent: Et licèt Episcoporum ordo<note n="a" place="margin">Hiero. in ep. ad Ev<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gr. 85.</note> in locum Apostolorum succes<g ref="char:EOLhyphen"/>serit, adeò vt eadem ferè sit dignitas Episcopi, quae fuit o<g ref="char:EOLhyphen"/>lim Apostoli: Et licèt cathedra tua (quia primus es inter huius <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Presbyteros (teste Hieronymo ad Evagri<g ref="char:EOLhyphen"/>um)<note n="b" place="margin">Hier. in Mi<g ref="char:EOLhyphen"/>che. cap. 2. Idē Epist. ad Hesiod.</note> alijs sit sublimior; nec presbyter tecum
+<q>
+                  <l>
+                     <note n="c" place="margin">Parem sorti<g ref="char:EOLhyphen"/>tus est gloriā Iliad, α.</note>— <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> vt est apud Homerum (cùm Episcoporum ordo, teste Epi<g ref="char:EOLhyphen"/>phanio, sit<note n="d" place="margin">Epiphan. Haeres. 25. Ordo patres generans; Pa<g ref="char:EOLhyphen"/>tres. n. giguit Ecclesiae.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, sed Presbyterorum <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, sed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: et cùm presbyterorum ordo non ha<g ref="char:EOLhyphen"/>beat potestatem siue <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, quod potest Episcopus:) Et licèt quia à Deo legationem acceperis<note n="e" place="margin">Mal. 2.1.</note>
+               <hi>An<g ref="char:EOLhyphen"/>gelus</hi> dicare, &amp; propter Altitudinē tui loci<note n="f" place="margin">Apoc. 1.20.</note>
+               <hi>civitati in mon<g ref="char:EOLhyphen"/>tae aedificatae</hi> assimulatus sis, ovium curâ<note n="h" place="margin">Mat. 5.14.</note>
+               <hi>pastori,</hi> excubijs<note n="h" place="margin">Per. 5.2.</note>
+               <hi>speculatori,</hi> fide<note n="i" place="margin">Act. 20.18.</note>
+               <hi>dispensatori,</hi> luce<note n="l" place="margin">1. Cor 4.1.</note>
+               <hi>oculo,</hi> salubri reprehen<g ref="char:EOLhyphen"/>sione<note n="m" place="margin">Mat. 6.6. Mat. 5.3.</note>
+               <hi>sali,</hi> vitae puritate<note n="n" place="margin">Ambrof. Hex. lib. 4. die. 4. cap. 1.</note>
+               <hi>soli in coelo lucenti,</hi> qui dicitur <hi>Ocu<g ref="char:EOLhyphen"/>lus mundi</hi> teste Ambrosio; hoc tamen officium ergate no<g ref="char:EOLhyphen"/>strum pergrato animo amplecti debes, tum propter matris tuae Academię ergate benevolentiam, tum propter gradus ipsius dignitatem. Matris tuae Academiç benevolentia erga te, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> sive nativus affectus ex eo nunc percipiatur, &amp; clarè intelligatur, quòd te &amp; longè, &amp; diu abipsa peregri<g ref="char:EOLhyphen"/>nantem, Ecclesiam Dei in diversis Angliae locis aedifican<g ref="char:EOLhyphen"/>tem,
+<pb facs="tcp:21377:4"/>attendentem lectioni, orationi, concionali exhorta<g ref="char:EOLhyphen"/>tioni (quo genere doctrinae nihil est vtilius, nihil homine Theologo dignius) post aliquot iam tandem annorum cur<g ref="char:EOLhyphen"/>ricula respicere non sit oblita. Nec tantùm quòd retrò o<g ref="char:EOLhyphen"/>culis suis conversis te aspexerit (hoc enim persaepè faciunt &amp; inimici) sed quòd retrò aspiciendo memoriam sui amoris erga te suum filium renovaverit; quòd ex huius amoris re<g ref="char:EOLhyphen"/>novatione, summo (quem ipsa in aliquem conferre potest) honore te dignum existimaverit; quòd gradum Doctoris in Theologia tibi non tantùm ex charissimo suo affectu cō<g ref="char:EOLhyphen"/>cesserit, sed etiam ad hanc Civitatem ab Oxonia longe disiunctam gradum illum ad te miserit; quòd per reveren<g ref="char:EOLhyphen"/>dum suum Vicecancellarium, per Professorem in sacra Theologia &amp; Regium, &amp; suum, per Venerabiles Procura<g ref="char:EOLhyphen"/>tores, per Tabellionem publicum gradum hunc ad te mi<g ref="char:EOLhyphen"/>serit; quòd instrumento publico nobis authoritatem dede<g ref="char:EOLhyphen"/>rit, vt in hac magna conclavi te perinde caeremoniis no<g ref="char:EOLhyphen"/>stris in auguraremus, &amp; Doctoris in Theologia ornamentis insigniremus, ac si essemus Oxonii, in domo Convocatio<g ref="char:EOLhyphen"/>nis, intra aedem B. Mariae, in praesentia Magistrorum regē<g ref="char:EOLhyphen"/>tium &amp; non regentium. Adeo vt palatio huic tuo Episco<g ref="char:EOLhyphen"/>pali idem applicetur, quod olim cecinit Poēta mellitissi<g ref="char:EOLhyphen"/>mus in eleganti illa quae scripta fuit à Penelope ad Vlys<g ref="char:EOLhyphen"/>sem epistolâ
+<q>
+                  <l>
+                     <note place="margin">Ovid, epist 1.</note>Hâc ibat Simois, hîc est Sogëia tellus,</l>
+                  <l>Hîc steterat Priamiregia celsa senis.</l>
+               </q> Ita licèt mero non possit depingi, tamen digito potest de<g ref="char:EOLhyphen"/>monstrari, quòd hîc sit domus Convocationis, illic aedes B. Mariae, in medio cathedra Vicecancellarij; hinc Procura<g ref="char:EOLhyphen"/>torum sedes, inde venerabilis concessus virorū doctissimo<g ref="char:EOLhyphen"/>rum, quo tanquam coronâ cincti sumus, theatrum Acade<g ref="char:EOLhyphen"/>mię amplissimum (perinde ac fi in Comitiis Academicis ver<g ref="char:EOLhyphen"/>saremur) quodam modo nobis referat. Ex his omnibus intel<g ref="char:EOLhyphen"/>ligas (Reverende Pater) quo te colat affectu Academia, quā tibi bene cupiat, quanto cum amore te amplectatur, quàm
+<pb facs="tcp:21377:4"/>sincerè tibi benefacere conata sit.</p>
+            <p>At fortasse dignitatis oblatae minor est claritas, quàm vt viro in Pontificia dignitate constituto offeratur, &amp; Episco<g ref="char:EOLhyphen"/>po tanti nominis deferatur. Fateor equidem in Ecclesia E<g ref="char:EOLhyphen"/>piscopatum maiorem esse Doctoratu, &amp; Doctoratum mi<g ref="char:EOLhyphen"/>norem esse Episcopatu; deinde nonnullos hodie sentire nō ignoro, quòd gradus Academici Ministris Evangelii mi<g ref="char:EOLhyphen"/>nimè conveniant. Hos ego scrupulos citò vobis eximam, vni satisfaciendo per concessionem, alterum refellendo per inficiationem. Concedo equidem libenter maiorem esse dignitatem Episcopatus quàm Doctoratus; nego tamen Ministris Evangelii non convenire Doctoris in Theologia gradum. Episcopatus in Ecclesia maior est Doctoratu: quid ex eo colligitis? ergo non suscipi debere ab his qui Episcopi constituti sunt in Ecclesia Doctoratum? Ex quo loco de<g ref="char:EOLhyphen"/>prompsistis hoc argumentum (viri gravissimi) ostendite. Marcus Tullius de quodam homine insulso &amp; inepto ita o<g ref="char:EOLhyphen"/>lim ad Atticum scripsit, <hi>Ille Rhodi potiùs molis quàm Molo<g ref="char:EOLhyphen"/>ni dedit operam:</hi>
+               <note place="margin">Cic. ad Artic. lib. 2. epist. 1.</note> it a ego de eo qui sic ratiocinatur verè dicere possum; hic ne{que} in Academiis vnquam vixit, nec Acade<g ref="char:EOLhyphen"/>mias vidit, nec artium humaniorum suavitates &amp; sensus de<g ref="char:EOLhyphen"/>gustavit, nec vt sapiens ille apud Poëtam
+<q>
+                  <l>
+                     <note place="margin">Multorū ho<g ref="char:EOLhyphen"/>minum vidit vrbes &amp; men<g ref="char:EOLhyphen"/>tem novit. O<g ref="char:EOLhyphen"/>dys. α. Eum nee fos<g ref="char:EOLhyphen"/>soré Deus sta<g ref="char:EOLhyphen"/>tuerer, nec a<g ref="char:EOLhyphen"/>ratorem, nec aliàs quid in<g ref="char:EOLhyphen"/>geniosum. 1. Tim. 3.2.</note>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> Et stultior illo est de quo in Margjte cecinit Homerus:
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> Praeclarum est sanè in Ecclesia Episcopum fieri, praeclarum est etiam in Academia (quae Ecclesiae est filia) Doctorē cre<g ref="char:EOLhyphen"/>ari. Laboris magni est Episcopatus, magni etiam laboris Do<g ref="char:EOLhyphen"/>ctoratus. Episcopus non debet esse nisi <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Doctor non potest esse nisi sit <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Interim taceo quàm multi sint Episcopi, &amp; iam ante fuerint ad dicendum inepti; Do<g ref="char:EOLhyphen"/>ctores verò esse non possunt in Academiis nostris, nisi qui docti &amp; apti ad docendum sint. Episcopatus est (teste Apo<g ref="char:EOLhyphen"/>stolo) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; at si idem iam viveret Apostolus,<note place="margin">Ibidem.</note> non pu<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:21377:5"/>eum velle rejicere Doctoratum tanquam <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. At Doctoratus minor est Episcopatu: at Episcopatum clario<g ref="char:EOLhyphen"/>rem facit Doctor at us, ex quo liquet gradum Doctoris ho<g ref="char:EOLhyphen"/>norem esse Pr<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e non indignum. Bona minora maioribus adiuncta efficiun<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> persaepe maiora bona, sane praeclariora, honoratiora, &amp; magis optibilia, secundùm illud Affirmatū Dialecticum;<note place="margin">Arist. 3. Top. cap. 3.</note>
+               <hi>Tale additum tal<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, efficit ipsum magis tale.</hi> Aliter Alexander ille Magnus, quo nemo per totum fere terrarū orbem fuit illo tempote vel genere nobilior, vel victoriis illustrior, vel Imperii amplitudine clarior, vel literis docti<g ref="char:EOLhyphen"/>or, ius civitatis Corinthu sibi à legatis eius loci delatum nū<g ref="char:EOLhyphen"/>quam accipisset. Aliter Reges, Principes, Comites &amp; Baro<g ref="char:EOLhyphen"/>nes (qui nunc in Europa florent, &amp; Patrum nostrorum me<g ref="char:EOLhyphen"/>moriâ floruerūt, quibus{que} nullū hominū genus clarius est, siue spectemus natalitium splendorem, siue gloriae amplitu<g ref="char:EOLhyphen"/>dinem, siue opum magnitudinem) gradus Magistrorum in artibus in Academia nunquam susciperent, aut ordinem Sancti Georgii, ordinem Sancti Michaëlis, ordinem Aurei velleris assumerent, vt illorum ordinum ritus, consuetudi<g ref="char:EOLhyphen"/>nes, instituta, decreta perpetuò observarent. Huc accedit etiam, quòd ad Episcopatum homines saepe aliis artibus so<g ref="char:EOLhyphen"/>leant pervenire quàm ad Doctoratum. Episcopi hodie ha<g ref="char:EOLhyphen"/>bent (cùm ad suum munus provehuntur) Principum com<g ref="char:EOLhyphen"/>mendationem, Canonicorum in sua ipsorum Ecclesia ele<g ref="char:EOLhyphen"/>ctionem, Aulicorum quorun dam amicitiam &amp; benevolen<g ref="char:EOLhyphen"/>tiam: Doctores verò testimonium habent tantùm hominū Academicorum, affirmationem Vicecancellarii, consensum Doctorum Theologiae, Legum, Medicinae; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Magi<g ref="char:EOLhyphen"/>strorum Regentium &amp; non Regentium, in domum Convo<g ref="char:EOLhyphen"/>cationis post solennem promulgationem congregatorum. At minima sunt ista (fateor equidem) si conferātur cū Prin<g ref="char:EOLhyphen"/>cipum authoritate, Archiepiscoporum &amp; Episcoporū dig<g ref="char:EOLhyphen"/>nitate, eorum qui in Aulis Principium serviunt gratia. Interium cùm illa quae ab Academiis collata sunt (licèt homi<g ref="char:EOLhyphen"/>num aestimatione minima sint) testimonium tribuant vir<g ref="char:EOLhyphen"/>tutis,
+<pb facs="tcp:21377:5"/>eruditionis, pietatis person aeipsius qui ad talem gradū promovetur; non est quòd Academiarum studium negliga<g ref="char:EOLhyphen"/>tur, beneuolentia spernatur, approbatio despiciatur, aut <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ol<g ref="char:EOLhyphen"/>latio graduū quos Academiae in eos qui <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as di<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ates pro<g ref="char:EOLhyphen"/>merentur conferunt, flocci fiat. Hos vero <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ir os (were<g ref="char:EOLhyphen"/>or autem ne se derideri putent, dum eos bonorum virorum nomine appellem) qui negant gradus Academicos ministris Evangeli<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> convenire, liceat mihi ita affari. In qua (non dico) vrbe, sed in qua republica, vel in qua Ecclesia vivitis, amici? Num in Mori Vtopia? vel in Platonis Repub.? vel potiùs in Cyclopum Anarchis? bi (vt inquit Homerus) ne{que} sunt
+<q>
+                  <l>
+                     <note place="margin">Cōciones cō<g ref="char:EOLhyphen"/>siliariae, ne{que} iura: In spelū. cis autem ca<g ref="char:EOLhyphen"/>vis ius dat v<g ref="char:EOLhyphen"/>nusquis{que} Liberis atque vxotibus, ne{que} se invicē cu<g ref="char:EOLhyphen"/>rant. Odys. θ. Ioliannes Iu<g ref="char:EOLhyphen"/>ellus Episc. Saris. Iohan. Pers. Archiepis. Eboracensis Cic. 5. Tuscul.</note>— <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> huius fundamenta nec ex loge naturae imbibistis, ne{que} ex alicuius reipub. sapienter administratae praeceptis didicistis, nec ex Scripturae sacrae fontibus deliba<g ref="char:EOLhyphen"/>stis, ne{que} ex Ecclesiae alicuius consuetudine confirmare po<g ref="char:EOLhyphen"/>testis. At hęc opinio vobis non placet. At placuit huius sedis olim Episcopo Iohanni Iuello, Pontificiarum superstitionū <hi>malleo:</hi> at haec opinio placuit Iohanni Persio &amp; Episcopo &amp; Archiepiscopo, ex cujus ore (dum verbum Dei tractaret in concione sacrâ) melle dulcior oratio fluxit, &amp; in quo Iuris<g ref="char:EOLhyphen"/>consultorum memoria enituit; quorum ego judicia (pace vestrâ dixerim) longe antepono vestris, qui &amp; Episcopi Re<g ref="char:EOLhyphen"/>verendi admodum fuerunt, &amp; docti fuerunt, &amp; Doctores in Theologia fuerunt, &amp; graduni Doctoratus Theologici sibi magno fuisse ornamento existimaverunt. Hic enim gradū hunc accepit priusquam Episcopalem cathedram ascendisdisset, ille huic gradui inauguratus fuit, post quam per annos aliquot in Episcopatu administrando foeliciter laborâsset.</p>
+            <p>Hîc verò &amp; locus, &amp; tempus, &amp; rei gerendę occasio mihi vt ad creationem descendam insusurrat. Cùm verò creatio ex applicatione visionis Prophetae magnâ ex parte cōstet, historia visionis me ad serevocat. In visione autē tria institu<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:21377:6"/>meo serviebāt, 1. Increpatio, 2. Praeceptio, 3. Admonitio.</p>
+            <p>Dominus Deus adversarios tuos increpatione (Pater Re<g ref="char:EOLhyphen"/>verende) semper redarguat, &amp; vnumquē{que} qui vel tibi, vel Ecclesiae quae tuae fidei concredita est, vel Ecclesiae Dei quae per Christi gratiam floret in Anglia malè velit, redarguat, convertat, vel confundat.</p>
+            <p>Pręceptio complectitur quid Deus in mandatis Seraphi<g ref="char:EOLhyphen"/>nis dederat: hoc autem erat, vt vestes Pontifici mutarent, vt cidarin mundam capiti ipsius imponerent. Cum esses ar<g ref="char:EOLhyphen"/>tium Magister, &amp; his artibus effloresceres quibus illa ętas in<g ref="char:EOLhyphen"/>formari solet, <hi>serico &amp; bisso</hi> te Academia pro sua gloria, pro tuo merito vestiebat; nunc verò te <hi>dibapho</hi> tegi, siue <hi>purpu<g ref="char:EOLhyphen"/>reâ togâ</hi> ornari vult, &amp; pedes tuos <hi>ocreis</hi> muniri eadē praece<g ref="char:EOLhyphen"/>pit Academia. Praecepit etiā vt tibi in man{us} <hi>Vitae aeternae librū</hi> darē, vt digitum minimo in sinistra manu proximum <hi>aureo annulo</hi> ornarē, vt capur <hi>pileo</hi> tegerē, vt hęc insignia ex legum nostrarū institutis per multos annos in Academia jam antea vsurpata vnà cum <hi>osculo</hi> tibi darem.<note place="margin">Hieron.</note> Hieronymus olim dixit de veste Sacerdotali scribens ad Fabiolam, quòd <hi>tanta debet esse scientia &amp; eruditto Pontificis Dei, vt &amp; gressus etus, &amp; motus, &amp; vniver sa vocalia sint; veritatem mente concipiat, &amp; tot<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eā habitu resonet &amp; ornatu. Vt quicquid agat, quicquid loquatur, sit doctrina populorū: abs{que} tintinabulis enim, et diversis coloribus, &amp; gemmis, floribus{que} virtutum, nec sancta ingredi potest, nec no<g ref="char:EOLhyphen"/>men Antistitis possidere.</hi>
+            </p>
+            <p>Si fas sit nobis parva nostra magnis his quodāmodo com<g ref="char:EOLhyphen"/>ponere, liceat mihi ex habitu hoc te paucis hortati; singula enim ista suum sensum &amp; significationem habent, &amp; (vt B. Hieronymi verbis vtar) <hi>sunt vocalia. Purpurea</hi> haec <hi>vestis</hi> te admoneat, qualiveste Christus bellū gerat; veste sanè san<g ref="char:EOLhyphen"/>guine pertinctâ,<note place="margin">Apoc. 19 13.</note> vt ex Apocalypsi demonstretur. <hi>Ocreis</hi> pe<g ref="char:EOLhyphen"/>des &amp; tibiae tibi muniantur, vt ex hoc discas minimas offen<g ref="char:EOLhyphen"/>siunculas vitari debere ab Episcopo, &amp; Theologiae Docto<g ref="char:EOLhyphen"/>re. <hi>Librum</hi> tibi in manus dedi <hi>sacrum, siguatum, propheticum, perfectum: sacrum,</hi> vt ex eo intelligeres reverenter à te scrip<g ref="char:EOLhyphen"/>turam
+<pb facs="tcp:21377:6"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> tractari debere: <hi>siguatum,</hi> vt Agnum qui est de tribu Iudae orares, vt ipse cum tibi aperiat: <hi>propheticum,</hi> vt ex eo scires, omnia quae sunt in Novo foedere, in Lege &amp; Prophetis adumbrata &amp; praedicta fuisse: <hi>perfectum,</hi> vtpote qui ad vitam ęternam per se sufficiat. <hi>Annulo</hi> digitum induo,<note place="margin">2. Tim. 3.16.</note> &amp; caput <hi>pileo,</hi> vt ex his symbolis discas, officij tui esse animas eorum qui in Deum credunt ipsi despondere, &amp; gregi tibi commisso Christi Evangelium (qui nos à morte libera vit, &amp; qui libertate filiorum Dei nos donavit) annuntiare. <hi>Osculum</hi> deinde sanctum labris tuis infigo, vt exeo videas osculum sanctum,<note n="a" place="margin">1. Rom. 16.16. Iustin. Mart. in Apol. pro Christian. 2.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Dei Opt. Max. filjis suis pacem &amp; omnes charitatis coelestis opes adferre. His ita perfectis; PRONVNTIO TE IN THEOLOGIA DO<g ref="char:EOLhyphen"/>CTOREM / ESSE, ET ACADEMIAE OX<g ref="char:EOLhyphen"/>ONIENSIS DOCTOREM: orans vt det tibi Deus praemium Doctoris in coelesti Hierosolyma.</p>
+            <p>Admonitio clausula sit nostrae hoc tempore orationis. Angelus Domini ita contestabatur Iehosuam dicens; <hi>hac dicit Dominus exercituum: si in vijs meis ambulaveris, &amp; custo<g ref="char:EOLhyphen"/>diam meam custodieris, tu quo{que} tudicabis domum meam, &amp; cu<g ref="char:EOLhyphen"/>stodies atria mea, &amp; dabo tibi ambulantes de his qui nunc hîc assi<g ref="char:EOLhyphen"/>stunt.</hi> Vel vt Targum Ionathae legit, <hi>Siper vias quae mihi rectae videntur perrexeris, &amp; si observationem verbi mei custodie<g ref="char:EOLhyphen"/>ris, tu quidem iudicabis eos qui in domo Sanctuarij mei ministrant, &amp; praeterea servabis atria mea, &amp; in mortuorum resurrectione resuscitabo te, pedes{que} veloces inter Seraphim istos ambulantes ti<g ref="char:EOLhyphen"/>bi donabo.</hi> Ita olim alloquutus est Iehosuam (Reverende Pater) Angelus Domini. Ego verò cùm hoc mihi ab initio exemplum proposuerim, liceat mihi (tuâ bonâ cum veniâ) sic te aftari, &amp; ijsdem ferè verbis affari. <hi>Si tu</hi> (Reverende Episcope) <hi>in viis Domini ambulaveis, &amp; custodiam Domini custodieris,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>si per vias, quae vidē<g ref="char:EOLhyphen"/>tur Domino recta perrexeris, si obseruationē verbi sus custodi<g ref="char:EOLhyphen"/>cris, tu diu iudicabis eos qui Deo in Dioecesi Sarisburiensis Eccle<g ref="char:EOLhyphen"/>sia ministrant. Diu in atrijs his &amp; honorificè vives, us mortuorū
+<pb facs="tcp:21377:7"/>resurrectione resuscitabit te Dominus, &amp; dabit tibi p<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>des vel<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces, vt ambules inter suos Seraphinos, dabit (dico) tibi Deus</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>cùm Pilius suus Christus Iesus in nubibus coeli venerit ad iudicandum vivos &amp; mortuos.</hi>
+               <note place="margin">1. Pet. Immareesci<g ref="char:EOLhyphen"/>bilem gloriae <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otonaam.</note> Cui cum Patre &amp; Spiritu sancto sit omnis potestas, honor, &amp; gloria, in omnem aeternitatem <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:21377:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
